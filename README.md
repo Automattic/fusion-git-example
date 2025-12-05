@@ -1,5 +1,7 @@
 # Lorem ipsum
 
+Kolja was here
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac pharetra ante, in varius magna. Maecenas sed blandit 
 justo. Sed vel tempus sapien. Pellentesque accumsan metus orci, porta aliquam ligula dignissim eu. Maecenas id posuere 
 neque. Nunc vel commodo ante. Etiam sem leo, ultricies vitae dignissim a, posuere ac risus. Ut sed eros arcu. Donec 
@@ -8,7 +10,7 @@ massa, faucibus in elit eget, venenatis venenatis diam. In dui nibh, facilisis a
 
 Pellentesque semper sem ac nisl interdum elementum. In elementum nunc eros, eget tempor ex mattis a. Suspendisse 
 vulputate diam ac malesuada lobortis. Integer libero ipsum, ornare quis orci nec, egestas faucibus odio. Curabitur 
-non neque at magna luctus suscipit. Curabitur id erat nec felis sollicitudin fringilla sit amet porttitor eros. Aenean 
+hello :) non neque at magna luctus suscipit. Curabitur id erat nec felis sollicitudin fringilla sit amet porttitor eros. Aenean 
 commodo quis nisi et consectetur.
 
 Aliquam vestibulum dolor eu risus porta, ut molestie quam eleifend. Etiam dictum lectus non ex pharetra, eget lobortis 
