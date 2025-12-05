@@ -1,6 +1,6 @@
 # Lorem ipsum
 
-Kolja was here
+WHAAAAT Kolja was here
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac pharetra ante, in varius magna. Maecenas sed blandit 
 justo. Sed vel tempus sapien. Pellentesque accumsan metus orci, porta aliquam ligula dignissim eu. Maecenas id posuere 
